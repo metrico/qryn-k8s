@@ -1,3 +1,5 @@
+<img src='https://user-images.githubusercontent.com/1423657/139434383-98287329-74ce-4061-aabb-a19e500a986c.png' width=250>
+
 # cloki-k8s
 cLoki on Kubernetes Example
 
