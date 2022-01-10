@@ -1,4 +1,4 @@
-<img src='https://user-images.githubusercontent.com/1423657/139434383-98287329-74ce-4061-aabb-a19e500a986c.png' width=250>
+<img src='https://user-images.githubusercontent.com/1423657/147935343-598c7dfd-1412-4bad-9ac6-636994810443.png' style="margin-left:-10px" width=220>
 
 # cloki-k8s
 cLoki on Kubernetes Example
